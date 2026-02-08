@@ -1,0 +1,1 @@
+Program calculates Kinetic energy
